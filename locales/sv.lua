@@ -3,6 +3,7 @@ local Translations = {
         negative = 'Du försöker sälja ett negativt antal?',
         no_melt = 'Du gav mig inget att smälta ner...',
         no_items = 'Du har inte tillräckligt med prylar',
+        inventory_full = 'Ditt inventory är för fullt för att ta emot alla föremål. Försök att se till att inventoryt inte är fullt nästa gång. Föremål förlorade: %{value}'
     },
     success = {
         sold = 'Du har sålt %{value} x %{value2} för $%{value3}',
